@@ -1,1 +1,2 @@
 Mudanças realizadas na atividade da Unidade 4.
+Arquivo editado para demonstrar controle de versão.
